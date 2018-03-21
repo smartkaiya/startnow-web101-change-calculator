@@ -1,0 +1,50 @@
+html {
+    
+     background: url(6-Weird-Ways-to-Save-Money.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+html {
+    height: 100%;
+}
+
+#dollars {
+    color: white;
+    font-size: 50px;
+}
+
+#quarters {
+    color: white;
+    font-size: 50px;
+}
+
+#dimes {
+    color: white;
+    font-size: 50px;
+}
+
+#nickels {
+    color: white;
+    font-size: 50px;
+}
+#pennies {
+    color: white;
+    font-size: 50px;
+}
+label {
+    color: white;
+    font-size: 25px;
+}
+#amtowed {
+    color : black;
+    font-size: 25px;
+}
